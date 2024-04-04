@@ -1,4 +1,4 @@
-##Fraud Detection Model
+# Fraud Detection Model
 
 This repository contains a supervised machine learning model implemented in Python for detecting credit card fraud using the k-Nearest Neighbors (KNN) algorithm. Additionally, this model leverages clustering techniques such as K-Means and DBSCAN to uncover hidden trends within the data. Feature engineering techniques and cross-validation are employed to enhance the model's performance and generalization capability.
 
